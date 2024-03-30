@@ -1,0 +1,4374 @@
+{
+  "Antibes Community Centre": {
+    "center_name": "Antibes Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:15 PM"
+          },
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:30 PM",
+            "end_time": "7:45 PM"
+          },
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:15 PM"
+          },
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:30 PM",
+            "end_time": "7:45 PM"
+          },
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:15 PM"
+          },
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:30 PM",
+            "end_time": "7:45 PM"
+          },
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/42/index.html#tab=dropin",
+    "address": "140 Antibes Dr M2R 3J3, Ontario Canada",
+    "phone": "416-395-0096",
+    "latitude": 43.7811636,
+    "longitude": -79.4469798
+  },
+  "Birchmount Community Centre": {
+    "center_name": "Birchmount Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/507/index.html#tab=dropin",
+    "address": "93, Birchmount Road, Birchcliff, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1N 3J7, Canada",
+    "phone": "416-396-4311",
+    "latitude": 43.6956191,
+    "longitude": -79.2632036
+  },
+  "Brown Community Centre": {
+    "center_name": "Brown Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/33/index.html#tab=dropin",
+    "address": "454 Avenue Rd M5M 4M7, Ontario Canada",
+    "phone": "416-392-6826",
+    "latitude": 43.68505404869038,
+    "longitude": -79.40121084149328
+  },
+  "Canoe Landing Community Recreation Centre": {
+    "center_name": "Canoe Landing Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "3:30 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "10:00 PM"
+          },
+          "Sun": {
+            "start_time": "3:30 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "10:00 PM"
+          },
+          "Sun": {
+            "start_time": "3:30 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "10:00 PM"
+          },
+          "Sun": {
+            "start_time": "3:30 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/3643/index.html#tab=dropin",
+    "address": "45 Fort York Blvd. M5V 0R6, Ontario Canada",
+    "phone": "416-397-4200",
+    "latitude": 43.6397893,
+    "longitude": -79.3947672
+  },
+  "Carmine Stefano Community Centre": {
+    "center_name": "Carmine Stefano Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 16 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "4:30 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "6:30 PM",
+            "end_time": "8:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 16 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "4:30 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "6:30 PM",
+            "end_time": "8:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 16 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "4:30 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "6:30 PM",
+            "end_time": "8:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/350/index.html#tab=dropin",
+    "address": "3100 Weston Rd M9M 2S7, Ontario Canada",
+    "phone": "416-395-6127",
+    "latitude": 43.73383401513272,
+    "longitude": -79.53896841768024
+  },
+  "Davisville Junior Public School": {
+    "center_name": "Davisville Junior Public School",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sat": {
+            "start_time": "11:30 AM",
+            "end_time": "1:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sat": {
+            "start_time": "11:30 AM",
+            "end_time": "1:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sat": {
+            "start_time": "11:30 AM",
+            "end_time": "1:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/2831/index.html#tab=dropin",
+    "address": "Davisville Junior Public School, 50, Davisville Avenue, Chaplin Estates, Toronto\u2014St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4S 2Y9, Canada",
+    "phone": "416-392-0747",
+    "latitude": 43.699002,
+    "longitude": -79.39467517785678
+  },
+  "Dennis R. Timbrell Resource Centre": {
+    "center_name": "Dennis R. Timbrell Resource Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "5:45 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "5:45 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "5:45 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/1056/index.html#tab=dropin",
+    "address": "29 St Dennis Dr M3C 3J3, Ontario Canada",
+    "phone": "416-395-7972",
+    "latitude": 43.7179522,
+    "longitude": -79.3316893
+  },
+  "Domenico Di Luca Community Recreation Centre": {
+    "center_name": "Domenico Di Luca Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "12 - 15 yrs",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "12 - 15 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "12 - 15 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "12 - 15 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/760/index.html#tab=dropin",
+    "address": "25, Stanley Road, Humber River\u2014Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M3L 2N1, Canada",
+    "phone": "416-395-6673",
+    "latitude": 43.742818,
+    "longitude": -79.5148765
+  },
+  "Don Montgomery Community Centre": {
+    "center_name": "Don Montgomery Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "12:45 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "12:45 PM",
+            "end_time": "3:00 PM"
+          },
+          "Fri": {
+            "start_time": "12:45 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "12:45 PM",
+            "end_time": "3:00 PM"
+          },
+          "Fri": {
+            "start_time": "12:45 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/712/index.html#tab=dropin",
+    "address": "Don Montgomery Community Recreation Centre, 2467, Eglinton Avenue East, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1K 5J7, Canada",
+    "phone": "416-396-4043",
+    "latitude": 43.7326575,
+    "longitude": -79.26169701484145
+  },
+  "Driftwood Community Recreation Centre": {
+    "center_name": "Driftwood Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sat": {
+            "start_time": "2:30 PM",
+            "end_time": "4:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sat": {
+            "start_time": "2:30 PM",
+            "end_time": "4:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "8:30 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sat": {
+            "start_time": "2:30 PM",
+            "end_time": "4:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "8:30 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/575/index.html#tab=dropin",
+    "address": "4401 Jane St M3N 2K3, Ontario Canada",
+    "phone": "416-395-0226",
+    "latitude": 43.7654644,
+    "longitude": -79.5187823
+  },
+  "Earl Bales Community Centre": {
+    "center_name": "Earl Bales Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/171/index.html#tab=dropin",
+    "address": "4169 Bathurst St M3H 3P7, Ontario Canada",
+    "phone": "416-395-7873",
+    "latitude": 43.7546042,
+    "longitude": -79.4340495
+  },
+  "Edithvale Community Centre": {
+    "center_name": "Edithvale Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:45 PM",
+            "end_time": "8:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:45 PM",
+            "end_time": "8:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:45 PM",
+            "end_time": "8:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:45 PM",
+            "end_time": "8:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:45 PM",
+            "end_time": "8:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/1463/index.html#tab=dropin",
+    "address": "131 Finch Ave W M2N 2H8, Ontario Canada",
+    "phone": "416-395-6164",
+    "latitude": 43.7769546,
+    "longitude": -79.4268156
+  },
+  "Ellesmere Community Centre": {
+    "center_name": "Ellesmere Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "12:30 PM",
+            "end_time": "3:30 PM"
+          },
+          "Thu": {
+            "start_time": "12:15 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "12:30 PM",
+            "end_time": "3:30 PM"
+          },
+          "Thu": {
+            "start_time": "12:15 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "12:30 PM",
+            "end_time": "3:30 PM"
+          },
+          "Thu": {
+            "start_time": "12:15 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "12:30 PM",
+            "end_time": "3:30 PM"
+          },
+          "Thu": {
+            "start_time": "12:15 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/617/index.html#tab=dropin",
+    "address": "20 Canadian Rd M1R 4B4, Ontario Canada",
+    "phone": "416-396-5536",
+    "latitude": 43.7607819,
+    "longitude": -79.2989908
+  },
+  "Ethennonnhawahstihnen' Community Recreation Centre and Library": {
+    "center_name": "Ethennonnhawahstihnen' Community Recreation Centre and Library",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "2:30 PM",
+            "end_time": "3:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "2:30 PM",
+            "end_time": "3:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "2:30 PM",
+            "end_time": "3:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "2:30 PM",
+            "end_time": "3:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "5:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/3775/index.html#tab=dropin",
+    "address": "Ethennonnhawahstihnen' Lane, Concord Park Place, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2K 1C3, Canada",
+    "phone": "416-392-4826",
+    "latitude": 43.7686106,
+    "longitude": -79.3753422
+  },
+  "Falstaff Community Centre": {
+    "center_name": "Falstaff Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "2:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "2:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "2:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "2:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/1063/index.html#tab=dropin",
+    "address": "50 Falstaff Ave M6L 2C7, Ontario Canada",
+    "phone": "416-395-1199",
+    "latitude": 43.716690148375285,
+    "longitude": 79.50334668159485
+  },
+  "Frankland Community Centre": {
+    "center_name": "Frankland Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:00 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sat": {
+            "start_time": "12:30 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:00 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sat": {
+            "start_time": "12:30 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:00 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sat": {
+            "start_time": "12:30 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/39/index.html#tab=dropin",
+    "address": "816, Logan Avenue, Greektown, Toronto\u2014Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4K 3E1, Canada",
+    "phone": "416-392-0749",
+    "latitude": 43.6767665,
+    "longitude": -79.3502708
+  },
+  "Heron Park Community Centre": {
+    "center_name": "Heron Park Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "4:00 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "4:00 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "4:00 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/633/index.html#tab=dropin",
+    "address": "Heron Park Arena, 292, Manse Road, Scarborough\u2014Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1E 3V4, Canada",
+    "phone": "416-396-4035",
+    "latitude": 43.7688046,
+    "longitude": -79.1774533
+  },
+  "Holy Family Community Centre": {
+    "center_name": "Holy Family Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:30 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:30 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:30 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/52/index.html#tab=dropin",
+    "address": "141, Close Avenue, Little Tibet, Parkdale\u2014High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 2V6, Canada",
+    "phone": "416-392-6695",
+    "latitude": 43.638370550000005,
+    "longitude": -79.43449444450442
+  },
+  "Jenner Jean-Marie Community Centre": {
+    "center_name": "Jenner Jean-Marie Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "6:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "6:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "6:15 PM",
+            "end_time": "7:15 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/1076/index.html#tab=dropin",
+    "address": "48 Thorncliffe Park Dr M4H 1J7, Ontario Canada",
+    "phone": "416-396-2874",
+    "latitude": 43.7029474,
+    "longitude": -79.3427368
+  },
+  "Jimmie Simpson Recreation Centre": {
+    "center_name": "Jimmie Simpson Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "3:00 PM",
+            "end_time": "4:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "3:00 PM",
+            "end_time": "4:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "3:00 PM",
+            "end_time": "4:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "3:00 PM",
+            "end_time": "4:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "3:00 PM",
+            "end_time": "4:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/58/index.html#tab=dropin",
+    "address": "Jimmie Simpson Swimming Pool, 870, Queen Street East, Studio District, Toronto\u2014Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 3G9, Canada",
+    "phone": "416-392-0751",
+    "latitude": 43.6606044,
+    "longitude": -79.3452894
+  },
+  "Joseph J. Piccininni Community Centre": {
+    "center_name": "Joseph J. Piccininni Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          },
+          "Thu": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "9:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          },
+          "Thu": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          },
+          "Thu": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/509/index.html#tab=dropin",
+    "address": "1369 St. Clair Ave W M6E 1C5, Ontario Canada",
+    "phone": "416-392-0036",
+    "latitude": 43.6753308,
+    "longitude": -79.4513966
+  },
+  "L'Amoreaux Community Recreation Centre": {
+    "center_name": "L'Amoreaux Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/788/index.html#tab=dropin",
+    "address": "2000, McNicoll Avenue, Steeles, Scarborough\u2014Agincourt, Scarborough, Toronto, Golden Horseshoe, Ontario, M1V 5E9, Canada",
+    "phone": "416-396-4510",
+    "latitude": 43.8121996,
+    "longitude": -79.30222
+  },
+  "Lawrence Heights Community Centre": {
+    "center_name": "Lawrence Heights Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          },
+          "Fri": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          },
+          "Fri": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/675/index.html#tab=dropin",
+    "address": "5 Replin Rd M6A 2M8, Ontario Canada",
+    "phone": "416-395-6118",
+    "latitude": 43.71799750261326,
+    "longitude": -79.44236270000006
+  },
+  "Malvern Recreation Centre": {
+    "center_name": "Malvern Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:30 PM",
+            "end_time": "10:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:30 PM",
+            "end_time": "10:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:30 PM",
+            "end_time": "10:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/702/index.html#tab=dropin",
+    "address": "Toronto Public Library - Malvern, 30, Sewells Road, Malvern, Scarborough\u2014Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 3G5, Canada",
+    "phone": "416-396-4054",
+    "latitude": 43.8081062,
+    "longitude": -79.2158192
+  },
+  "Mary McCormick Recreation Centre": {
+    "center_name": "Mary McCormick Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/100/index.html#tab=dropin",
+    "address": "66 Sheridan Ave M6K 2G9, Ontario Canada",
+    "phone": "416-392-0742",
+    "latitude": 43.647465,
+    "longitude": -79.433228
+  },
+  "Masaryk-Cowan Community Recreation Centre": {
+    "center_name": "Masaryk-Cowan Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/89/index.html#tab=dropin",
+    "address": "Masaryk-Cowan Community Centre, 220, Cowan Avenue, Little Tibet, Parkdale\u2014High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 2N6, Canada",
+    "phone": "416-392-6928",
+    "latitude": 43.6407259,
+    "longitude": -79.4332738
+  },
+  "Matty Eckler Recreation Centre": {
+    "center_name": "Matty Eckler Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sat": {
+            "start_time": "9:30 AM",
+            "end_time": "11:30 AM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "5:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sat": {
+            "start_time": "9:30 AM",
+            "end_time": "11:30 AM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "5:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sat": {
+            "start_time": "9:30 AM",
+            "end_time": "11:30 AM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "5:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sat": {
+            "start_time": "9:30 AM",
+            "end_time": "11:30 AM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "5:30 PM",
+            "end_time": "7:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/234/index.html#tab=dropin",
+    "address": "Matty Eckler Community Recreation Centre, 953, Gerrard Street East, Badgerow, Toronto\u2014Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 1Z4, Canada",
+    "phone": "416-392-0750",
+    "latitude": 43.667894399999994,
+    "longitude": -79.33978555177472
+  },
+  "Milliken Park Community Recreation Centre": {
+    "center_name": "Milliken Park Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "4:00 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/405/index.html#tab=dropin",
+    "address": "4325 McCowan Road, McCowan Road, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1V 3Z3, Canada",
+    "phone": "416-396-7757",
+    "latitude": 43.8288558,
+    "longitude": -79.2750531
+  },
+  "Mitchell Field Community Centre": {
+    "center_name": "Mitchell Field Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:15 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sun": {
+            "start_time": "6:00 PM",
+            "end_time": "8:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:30 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:15 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sun": {
+            "start_time": "6:00 PM",
+            "end_time": "8:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:30 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:15 PM",
+            "end_time": "9:45 PM"
+          },
+          "Sun": {
+            "start_time": "6:00 PM",
+            "end_time": "8:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:30 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/693/index.html#tab=dropin",
+    "address": "89 Church Ave M2N 6C9, Ontario Canada",
+    "phone": "416-395-0265",
+    "latitude": 43.774463838584886,
+    "longitude": -79.40823554992676
+  },
+  "North Kipling Community Centre": {
+    "center_name": "North Kipling Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:45 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:15 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:45 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:15 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:45 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:15 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/749/index.html#tab=dropin",
+    "address": "North Kipling Junior Middle School, 2, Rowntree Road, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9V 5C7, Canada",
+    "phone": "416-394-8679",
+    "latitude": 43.752518550000005,
+    "longitude": -79.58473292735763
+  },
+  "North Toronto Memorial Community Centre": {
+    "center_name": "North Toronto Memorial Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "9:15 PM"
+          },
+          "Wed": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "9:00 AM",
+            "end_time": "10:30 AM"
+          },
+          "Sun": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "9:15 PM"
+          },
+          "Wed": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "9:00 AM",
+            "end_time": "10:30 AM"
+          },
+          "Sun": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "9:15 PM"
+          },
+          "Wed": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "9:00 AM",
+            "end_time": "10:30 AM"
+          },
+          "Sun": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/189/index.html#tab=dropin",
+    "address": "200, Eglinton Avenue West, Chaplin Estates, Eglinton\u2014Lawrence, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4R 1A7, Canada",
+    "phone": "416-392-6591",
+    "latitude": 43.7054907,
+    "longitude": -79.4048761
+  },
+  "Northwood Community Centre": {
+    "center_name": "Northwood Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "4:00 PM",
+            "end_time": "6:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/703/index.html#tab=dropin",
+    "address": "15 Clubhouse Crt M3L 2L7, Ontario Canada",
+    "phone": "416-395-7284",
+    "latitude": 43.7456674,
+    "longitude": -79.5002512
+  },
+  "Oakdale Community Centre": {
+    "center_name": "Oakdale Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "2:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:00 PM",
+            "end_time": "10:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/780/index.html#tab=dropin",
+    "address": "350 Grandravine Dr M3J 1B3, Ontario Canada",
+    "phone": "416-395-0484",
+    "latitude": 43.7478485,
+    "longitude": -79.5134376
+  },
+  "One Yonge Community Recreation Centre": {
+    "center_name": "One Yonge Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "5:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "5:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "5:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "5:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "5:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "5:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "5:15 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sat": {
+            "start_time": "5:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/3732/index.html#tab=dropin",
+    "address": "Freeland Street, South Core, Spadina\u2014Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5E 1E5, Canada",
+    "phone": "416-392-9006",
+    "latitude": 43.6435571,
+    "longitude": -79.3735859
+  },
+  "Oriole Community Centre": {
+    "center_name": "Oriole Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/714/index.html#tab=dropin",
+    "address": "2975 Don Mills Rd W M2J 3B7, Ontario Canada",
+    "phone": "416-395-6005",
+    "latitude": 43.781895,
+    "longitude": -79.351418
+  },
+  "Ourland Community Centre": {
+    "center_name": "Ourland Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "1:00 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/793/index.html#tab=dropin",
+    "address": "18 Ourland Ave M8Z 4C9, Ontario Canada",
+    "phone": "416-394-8673",
+    "latitude": 43.61502869794908,
+    "longitude": -79.50842142105103
+  },
+  "Parkdale Community Recreation Centre": {
+    "center_name": "Parkdale Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "6:00 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/243/index.html#tab=dropin",
+    "address": "Parkdale Community Recreation Centre, 75, Lansdowne Avenue, Little Tibet, Parkdale\u2014High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 2W1, Canada",
+    "phone": "416-392-6696",
+    "latitude": 43.6436414,
+    "longitude": -79.4373612
+  },
+  "Parkway Forest Community Centre": {
+    "center_name": "Parkway Forest Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "1:30 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Wed": {
+            "start_time": "1:30 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Wed": {
+            "start_time": "1:30 PM",
+            "end_time": "3:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:15 PM",
+            "end_time": "4:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Sun": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/2791/index.html#tab=dropin",
+    "address": "55 Forest Manor Rd M2J 0C2, Ontario Canada",
+    "phone": "416-392-6383",
+    "latitude": 43.7726861,
+    "longitude": -79.3442583
+  },
+  "Regent Park Community Centre": {
+    "center_name": "Regent Park Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "7:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/3502/index.html#tab=dropin",
+    "address": "402, Shuter Street, Trefann Court, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 3E7, Canada",
+    "phone": "416-392-5490",
+    "latitude": 43.6577582,
+    "longitude": -79.3618808
+  },
+  "Roding Community Centre": {
+    "center_name": "Roding Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/744/index.html#tab=dropin",
+    "address": "600 Roding St M3M 2A5, Ontario Canada",
+    "phone": "416-395-7964",
+    "latitude": 43.72913084993555,
+    "longitude": -79.49254810810089
+  },
+  "S.H. Armstrong Community Centre": {
+    "center_name": "S.H. Armstrong Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball (Girls)",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball (Girls)",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball (Girls)",
+        "age_range": "13 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/267/index.html#tab=dropin",
+    "address": "56, Woodfield Road, Gerrard India Bazaar, Toronto\u2014Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4L 1E2, Canada",
+    "phone": "416-392-0734",
+    "latitude": 43.6656971,
+    "longitude": -79.3215766
+  },
+  "Seneca Village Community Centre": {
+    "center_name": "Seneca Village Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "16 - 18 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "7:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "50 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "60 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "6:30 PM",
+            "end_time": "8:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/751/index.html#tab=dropin",
+    "address": "1700 Finch Ave E M2J 4X8, Ontario Canada",
+    "phone": "416-395-7671",
+    "latitude": 43.7938958,
+    "longitude": -79.3512943
+  },
+  "Smithfield Community School": {
+    "center_name": "Smithfield Community School",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 - 24 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "8:00 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/1320/index.html#tab=dropin",
+    "address": "Smithfield Middle School, 175, Mount Olive Drive, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9V 2E3, Canada",
+    "phone": "416-394-8715",
+    "latitude": 43.7497345,
+    "longitude": -79.59635904550251
+  },
+  "St. Lawrence Community Recreation Centre": {
+    "center_name": "St. Lawrence Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "8:45 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "3:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "8:45 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "3:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "8:45 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "3:45 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "8:45 PM"
+          },
+          "Sun": {
+            "start_time": "12:30 PM",
+            "end_time": "3:45 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/272/index.html#tab=dropin",
+    "address": "230, The Esplanade, St. Lawrence, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 4J5, Canada",
+    "phone": "416-392-1347",
+    "latitude": 43.649686,
+    "longitude": -79.364888
+  },
+  "Swansea Community Recreation Centre": {
+    "center_name": "Swansea Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Tue": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/282/index.html#tab=dropin",
+    "address": "Swansea Community Recreation Centre, 15, Waller Avenue, Swansea, Parkdale\u2014High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6S 4Z9, Canada",
+    "phone": "416-392-6796",
+    "latitude": 43.6441232,
+    "longitude": -79.4768848
+  },
+  "Toronto Pan Am Sports Centre": {
+    "center_name": "Toronto Pan Am Sports Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sun": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sun": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "17 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          },
+          "Sun": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/2773/index.html#tab=dropin",
+    "address": "Toronto Pan Am Sports Centre (TPASC), 875, Morningside Avenue, Scarborough\u2014Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1C 0C7, Canada",
+    "phone": "416-283-5222",
+    "latitude": 43.79077545,
+    "longitude": -79.1936911606467
+  },
+  "Trinity Community Recreation Centre": {
+    "center_name": "Trinity Community Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 14 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:15 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "9:00 PM"
+          },
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 14 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:15 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "7:15 PM",
+            "end_time": "9:00 PM"
+          },
+          "Wed": {
+            "start_time": "7:00 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 14 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "5:15 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/287/index.html#tab=dropin",
+    "address": "155 Crawford St M6J 2V5, Ontario Canada",
+    "phone": "416-392-0743",
+    "latitude": 43.6460136,
+    "longitude": -79.4150682
+  },
+  "Wallace Emerson Community Centre": {
+    "center_name": "Wallace Emerson Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "15 - 19 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:45 PM",
+            "end_time": "8:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 15 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:45 PM",
+            "end_time": "8:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "15 - 19 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:45 PM",
+            "end_time": "8:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 15 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:45 PM",
+            "end_time": "8:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "11:30 AM",
+            "end_time": "1:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "15 - 19 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:45 PM",
+            "end_time": "8:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 15 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Thu": {
+            "start_time": "6:45 PM",
+            "end_time": "8:15 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "19 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Mon": {
+            "start_time": "11:30 AM",
+            "end_time": "1:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/294/index.html#tab=dropin",
+    "address": "1260 Dufferin St M6H 4C3, Ontario Canada",
+    "phone": "416-392-0039",
+    "latitude": 43.6673236,
+    "longitude": -79.4392739
+  },
+  "Warden Hilltop Community Centre": {
+    "center_name": "Warden Hilltop Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "4:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "4:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:30 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "4:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:30 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "18 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "6:30 PM",
+            "end_time": "9:00 PM"
+          },
+          "Sun": {
+            "start_time": "1:00 PM",
+            "end_time": "4:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 17 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "3:30 PM",
+            "end_time": "6:00 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/1865/index.html#tab=dropin",
+    "address": "25 Mendelssohn St M1L 0G6, Ontario Canada",
+    "phone": "416-392-7640",
+    "latitude": 43.7146075,
+    "longitude": -79.2807006
+  },
+  "Wellesley Community Centre": {
+    "center_name": "Wellesley Community Centre",
+    "data": [
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "13 - 24 yrs",
+        "date_range": {
+          "start_date": "Mar 25",
+          "end_date": "Mar 31"
+        },
+        "schedule": {
+          "Fri": {
+            "start_time": "7:30 PM",
+            "end_time": "9:00 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball: Recreational",
+        "age_range": "16 yrs +",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "7:30 PM",
+            "end_time": "9:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/451/index.html#tab=dropin",
+    "address": "495 Sherbourne St M4X 1K7, Ontario Canada",
+    "phone": "416-392-0227",
+    "latitude": 43.667437006475815,
+    "longitude": -79.37441289424896
+  },
+  "York Recreation Centre": {
+    "center_name": "York Recreation Centre",
+    "data": [
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 16 yrs",
+        "date_range": {
+          "start_date": "Apr 01",
+          "end_date": "Apr 07"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "5:30 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 16 yrs",
+        "date_range": {
+          "start_date": "Apr 08",
+          "end_date": "Apr 14"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "5:30 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      },
+      {
+        "program_name": "Volleyball",
+        "age_range": "13 - 16 yrs",
+        "date_range": {
+          "start_date": "Apr 15",
+          "end_date": "Apr 21"
+        },
+        "schedule": {
+          "Wed": {
+            "start_time": "5:30 PM",
+            "end_time": "6:30 PM"
+          }
+        }
+      }
+    ],
+    "website": "https://www.toronto.ca/data/parks/prd/facilities/complex/3501/index.html#tab=dropin",
+    "address": "Black Creek Drive, Cornell, Markham, Whitchurch-Stouffville, York Region, Golden Horseshoe, Ontario, L6B 1A8, Canada",
+    "phone": "416-392-9675",
+    "latitude": 43.8970864,
+    "longitude": -79.2272662
+  }
+}
